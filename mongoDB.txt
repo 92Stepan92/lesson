@@ -1,0 +1,132 @@
+{"slide":{"value":40},"math":{"value": 20, "lastValues": []},
+"user":{"user": "John", "age": 24, "lastValues": []},"mobileMenu":{"translateX":0}}
+
+
+preloadedState:{"slide":{"value":40},"math":{"value": 20, "lastValues": []},
+"user":{"user": "John", "age": 24, "lastValues": []},
+"navIcon":{"display":"block","rotate":0,"rotate2":0},
+"mobileMenu":{"translateX":0,"menu":["home","education","portfolio","contact"]},
+"education":{"evropakan":{"era":0,"era1":0,"name":"European Regional Educational Academy","textContent":["My Education in European Regional  Academy of Armenia","I've had studied International Economic Relations in the European Regional  Academy of Armenia from 2009-2013. I've Bachelor's Degree in Economic recieved in 2013 after finishing the all 4 full courses in the Campus of Gyumri of the European Regional  Academy of Armenia."],"img":"era.","years":"2009-2013"},
+"economicsUniversity":{"asue":-100,"asue1":100,"name":" Armenian State University of Economics","textContent":["My Education in Armenian State University of Economics","I've had studied of Finance in the  Armenian State University of Economics  from 2013-2015. I've Bachelor's Degree in  Finance recieved in 2015 after finishing the all 2 full courses in the Campus of Gyumri of the Armenian State University of Economics."],"img":"asue.","years":"2013-2015"},
+"GTC":{"name":" Gyumri Technology Center","textContent":["My Education in Gyumri Technology Center","I've studied  HTML5/CSS3, JavaScript and the latest versions of the EcmaScript 2015, 2016, 2017 Jquery, React.js, Redux, RxJS, Node.js Express Fremework, PHP, MongoDb, Mysql in the Gyumri Technology Center in 2017,I've recieved the Certificate of HTML5/CSS3, JavaScript, PHP in 2017.I'm fully aware of these technologies I have used to build responsive websites with the React.js+ES6 with a little mix of the Reactive and Asynchronous Programming on the Node.js Web Server"],"img":"gtc.","years":"2017"}},
+"portfolio":{"hoverStatus":false,"flip":0,"bac":0,"data":0,"out":0,
+"frontend":{"name":"frontend","programmingLanguage":["react/redux","html/css3/botstrap4","ecmascript2017"],"progressBar":[90,90,80]},
+"backend":{"name":"backend","programmingLanguage":["Node.js Express","PHP"],"progressBar":[80,50]},
+"database":{"name":"database","programmingLanguage":["Mysql","MongoDb/Mongoose"],"progressBar":[70,60]},
+"otherStuff":{"name":"Other Stuff","programmingLanguage":["RX JS Reactiv programming","JS Asynchronous programming"],"progressBar":[30,30]}
+}}
+
+{"slide":{"value":40},"math":{"value": 20, "lastValues": []},"user":{"user": "John", "age": 24, "lastValues": []},"navIcon":{"display":"block","rotate":0,"rotate2":0}, "mobileMenu":{"translateX":0,"menu":["home","education","portfolio","contact"]},"education":{"era":0,"era1":0,"gtc":-100,"gtc1":100,"asue":-100,"asue1":100,"evropakan":{"name":"European Regional Educational Academy","textContent":["My Education in European Regional  Academy of Armenia","I've had studied International Economic Relations in the European Regional  Academy of Armenia from 2009-2013. I've Bachelor's Degree in Economic recieved in 2013 after finishing the all 4 full courses in the Campus of Gyumri of the European Regional  Academy of Armenia."],"img":"era.","years":"2009-2013"},"economicsUniversity":{"name":" Armenian State University of Economics","textContent":["My Education in Armenian State University of Economics","I've had studied of Finance in the  Armenian State University of Economics  from 2013-2015. I've Bachelor's Degree in  Finance recieved in 2015 after finishing the all 2 full courses in the Campus of Gyumri of the Armenian State University of Economics."],"img":"asue.","years":"2013-2015"},"GTC":{"name":" Gyumri Technology Center","textContent":["My Education in Gyumri Technology Center","I've studied  HTML5/CSS3, JavaScript and the latest versions of the EcmaScript 2015, 2016, 2017 Jquery, React.js, Redux, RxJS, Node.js Express Fremework, PHP, MongoDb, Mysql in the Gyumri Technology Center in 2017,I've recieved the Certificate of HTML5/CSS3, JavaScript, PHP in 2017.I'm fully aware of these technologies I have used to build responsive websites with the React.js+ES6 with a little mix of the Reactive and Asynchronous Programming on the Node.js Web Server"],"img":"gtc.","years":2017}},"portfolio":{"hoverStatus":false,"flip":0,"bac":0,"data":0,"out":0, "frontend":{"name":"frontend","programmingLanguage":["react/redux","html/css3/botstrap4","ecmascript2017"],"progressBar":[90,90,80]},"backend":{"name":"backend","programmingLanguage":["Node.js Express","PHP"],"progressBar":[80,50]},"database":{"name":"database","programmingLanguage":["Mysql","MongoDb/Mongoose"],"progressBar":[70,60]},"otherStuff":{"name":"Other Stuff","programmingLanguage":["RX JS Reactiv programming","JS Asynchronous programming"],"progressBar":[30,30]}}}
+
+
+
+{"slide":{"value":40},
+"math":{"value": 20, 
+"lastValues": []},
+"user":{"user": "John", "age": 24, "lastValues": []},
+"navIcon":{"display":"block","rotate":0,"rotate2":0}, 
+"mobileMenu":{"translateX":0,"menu":["home","education","portfolio","contact"]},
+"education":{
+	"era":0,
+	"era1":0,
+	"asue":-100,
+	"asue1":100,
+	"gtc":-100,
+	"gtc1":100,
+	"education1":{
+		"evropakan":{
+			"name":"European Regional Educational Academy",
+			"text":"My Education in European Regional  Academy of Armenia",
+			"textContent":"I've had studied International Economic Relations in the European Regional  Academy of Armenia from 2009-2013. I've Bachelor's Degree in Economic recieved in 2013 after finishing the all 4 full courses in the Campus of Gyumri of the European Regional  Academy of Armenia.",
+			"img":"era.",
+			"years":"2009-2013"},
+		"economicsUniversity":{
+			"name":" Armenian State University of Economics",
+			"text":"My Education in Armenian State University of Economics",
+			"textContent":"I've had studied of Finance in the  Armenian State University of Economics  from 2013-2015. I've Bachelor's Degree in  Finance recieved in 2015 after finishing the all 2 full courses in the Campus of Gyumri of the Armenian State University of Economics.",
+			"img":"asue.",
+			"years":"2013-2015"},
+		"GTC":{
+			"name":" Gyumri Technology Center",
+			"text":"My Education in Gyumri Technology Center",
+			"textContent":"I've studied  HTML5/CSS3, JavaScript and the latest versions of the EcmaScript 2015, 2016, 2017 Jquery, React.js, Redux, RxJS, Node.js Express Fremework, PHP, MongoDb, Mysql in the Gyumri Technology Center in 2017,I've recieved the Certificate of HTML5/CSS3, JavaScript, PHP in 2017.I'm fully aware of these technologies I have used to build responsive websites with the React.js+ES6 with a little mix of the Reactive and Asynchronous Programming on the Node.js Web Server",
+			"img":"gtc.",
+			"years":2017}
+		}
+ },
+"portfolio":{
+		"hoverStatus":false,
+		"flip":0,
+		"bac":0,
+		"data":0,
+		"out":0, 
+		"frontend":{
+			"name":"frontend",
+			"programmingLanguage":[
+				"react/redux",
+				"html/css3/botstrap4",
+				"ecmascript2017"],
+			"progressBar":[90,90,80]},
+		"backend":{
+			"name":"backend",
+			"programmingLanguage":[
+				"Node.js Express",
+				"PHP"],
+			"progressBar":[80,50]},
+		"database":{
+			"name":"database",
+			"programmingLanguage":[
+				"Mysql",
+				"MongoDb/Mongoose"],
+				"progressBar":[70,60]},
+		"otherStuff":{
+			"name":"Other Stuff",
+			"programmingLanguage":[
+				"RX JS Reactiv programming",
+				"JS Asynchronous programming"],
+				"progressBar":[30,30]}}}  
+
+{"slide":{"value":40}, "math":{"value": 20,  "lastValues": []}, "user":{"user": "John", "age": 24, "lastValues": []}, "navIcon":{"display":"block","rotate":0,"rotate2":0},"mobileMenu":{"translateX":0,"menu":["home","education","portfolio","contact"]},"education":{"era":0,"era1":0,"asue":-100,"asue1":100,"gtc":-100,"gtc1":100,"education1":{"evropakan":{"name":"European Regional Educational Academy","text":"My Education in European Regional  Academy of Armenia","textContent":"I've had studied International Economic Relations in the European Regional  Academy of Armenia from 2009-2013. I've Bachelor's Degree in Economic recieved in 2013 after finishing the all 4 full courses in the Campus of Gyumri of the European Regional  Academy of Armenia.","img":"era.","years":"2009-2013"},"economicsUniversity":{"name":" Armenian State University of Economics","text":"My Education in Armenian State University of Economics","textContent":"I've had studied of Finance in the  Armenian State University of Economics  from 2013-2015. I've Bachelor's Degree in  Finance recieved in 2015 after finishing the all 2 full courses in the Campus of Gyumri of the Armenian State University of Economics.","img":"asue.","years":"2013-2015"},"GTC":{"name":" Gyumri Technology Center","text":"My Education in Gyumri Technology Center","textContent":"I've studied  HTML5/CSS3, JavaScript and the latest versions of the EcmaScript 2015, 2016, 2017 Jquery, React.js, Redux, RxJS, Node.js Express Fremework, PHP, MongoDb, Mysql in the Gyumri Technology Center in 2017,I've recieved the Certificate of HTML5/CSS3, JavaScript, PHP in 2017.I'm fully aware of these technologies I have used to build responsive websites with the React.js+ES6 with a little mix of the Reactive and Asynchronous Programming on the Node.js Web Server","img":"gtc.","years":2017}}},"portfolio":{"hoverStatus":false,"flip":0,"bac":0,"data":0,"out":0,"frontend":{"name":"frontend","programmingLanguage":["react/redux","html/css3/botstrap4","ecmascript2017"],"progressBar":[90,90,80]},"backend":{"name":"backend", "programmingLanguage":["Node.js Express","PHP"],"progressBar":[80,50]},"database":{"name":"database","programmingLanguage":[ "Mysql","MongoDb/Mongoose"],"progressBar":[70,60]},"otherStuff":{"name":"Other Stuff","programmingLanguage":["RX JS Reactiv programming","JS Asynchronous programming"],"progressBar":[30,30]}}}  
+
+{"slide": {"value": 40},"math": {"value": 20,"lastValues": []},"user": {"user": "John","age": 24,"lastValues": []},"navIcon": {"display": "block","rotate": 0,"rotate2": 0},"mobileMenu": {"translateX": 0,"menu": ["home", "education", "portfolio", "contact"]},"education": {"era": 0,"era1": 0,"asue": -100,"asue1": 100,"gtc": -100,"gtc1": 100}, "education1":{"evropakan": ["European Regional Educational Academy", "My Education in European Regional  Academy of Armenia", "I've had studied International Economic Relations in the European Regional  Academy of Armenia from 2009-2013. I've Bachelor's Degree in Economic recieved in 2013 after finishing the all 4 full courses in the Campus of Gyumri of the European Regional  Academy of Armenia.", "era.", "2009-2013"}],"economicsUniversity": [{" Armenian State University of Economics", "My Education in Armenian State University of Economics", "I've had studied of Finance in the  Armenian State University of Economics  from 2013-2015. I've Bachelor's Degree in  Finance recieved in 2015 after finishing the all 2 full courses in the Campus of Gyumri of the Armenian State University of Economics.", "asue.", "2013-2015"],"GTC": [" Gyumri Technology Center", "My Education in Gyumri Technology Center", "I've studied  HTML5/CSS3, JavaScript and the latest versions of the EcmaScript 2015, 2016, 2017 Jquery, React.js, Redux, RxJS, Node.js Express Fremework, PHP, MongoDb, Mysql in the Gyumri Technology Center in 2017,I've recieved the Certificate of HTML5/CSS3, JavaScript, PHP in 2017.I'm fully aware of these technologies I have used to build responsive websites with the React.js+ES6 with a little mix of the Reactive and Asynchronous Programming on the Node.js Web Server", "gtc.", 2017]},"portfolio": {"hoverStatus": false,"flip": 0,"bac": 0,"data": 0,"out": 0,"frontend": {"name": "frontend","programmingLanguage": ["react/redux", "html/css3/botstrap4", "ecmascript2017"],"progressBar": [90, 90, 80]},"backend": {"name": "backend","programmingLanguage": ["Node.js Express", "PHP"],"progressBar": [80, 50]},"database": {"name": "database","programmingLanguage": ["Mysql", "MongoDb/Mongoose"],"progressBar": [70, 60]},"otherStuff": {"name": "Other Stuff","programmingLanguage": ["RX JS Reactiv programming", "JS Asynchronous programming"],"progressBar": [30, 30]}}}
+{ animation: keyframes`
+            0% {width: 0%;}
+            100% {width: ${value}%;}`}
+
+
+{animation: keyframes`
+            0% {width: ${value};}
+            100% {width: 0%;}`}
+
+img----"img-fluid rounded-circle img-thumbnail"
+
+
+(function a(){
+let x = 0;
+	if(x===0){
+console.log("hello");
+}
+}());
+
+Ключ API -- AIzaSyDApTEMYrIigmY1EDgkjtXg7acnxJUlbIk
+
+(()=>{
+let x = 0;
+	if(x===0){
+console.log("hello");
+}
+})();
+
+let arr =["Armen","Karen","Ara"];
+	arr.indexOf("Armen");
+
+^[\+]?[0-9]{5,12}$
+^\+?\?[0-9]{1,3}[\s-]?\?[0-9]{1,2}[\s-]?\?[0-9]{2}[\s-]?\?[0-9]{2}$
+{"slide":{"value":40}, "math":{"value": 20,  "lastValues": []}, "user":{"user": "John", "age": 24, "lastValues": []}, "navIcon":{"display":"block","rotate":0,"rotate2":0},"mobileMenu":{"translateX":0,"menu":["home","education","portfolio","contact"]},"education":{"era":0,"era1":0,"asue":-100,"asue1":100,"gtc":-100,"gtc1":100},"education1":{"evropakan":{"name":"European Regional Educational Academy","text":"My Education in European Regional  Academy of Armenia","textContent":"I've had studied International Economic Relations in the European Regional  Academy of Armenia from 2009-2013. I've Bachelor's Degree in Economic recieved in 2013 after finishing the all 4 full courses in the Campus of Gyumri of the European Regional  Academy of Armenia.","img":"era.","years":"2009-2013"},"economicsUniversity":{"name":" Armenian State University of Economics","text":"My Education in Armenian State University of Economics","textContent":"I've had studied of Finance in the  Armenian State University of Economics  from 2013-2015. I've Bachelor's Degree in  Finance recieved in 2015 after finishing the all 2 full courses in the Campus of Gyumri of the Armenian State University of Economics.","img":"asue.","years":"2013-2015"},"GTC":{"name":" Gyumri Technology Center","text":"My Education in Gyumri Technology Center","textContent":"I've studied  HTML5/CSS3, JavaScript and the latest versions of the EcmaScript 2015, 2016, 2017 Jquery, React.js, Redux, RxJS, Node.js Express Fremework, PHP, MongoDb, Mysql in the Gyumri Technology Center in 2017,I've recieved the Certificate of HTML5/CSS3, JavaScript, PHP in 2017.I'm fully aware of these technologies I have used to build responsive websites with the React.js+ES6 with a little mix of the Reactive and Asynchronous Programming on the Node.js Web Server","img":"gtc.","years":2017}},"portfolio":{"hoverStatus":false,"flip":0,"bac":0,"data":0,"out":0,"frontend":{"name":"frontend","programmingLanguage":["react/redux","html/css3/botstrap4","ecmascript2017"],"progressBar":[90,90,80]},"backend":{"name":"backend", "programmingLanguage":["Node.js Express","PHP"],"progressBar":[80,50]},"database":{"name":"database","programmingLanguage":[ "Mysql","MongoDb/Mongoose"],"progressBar":[70,60]},"otherStuff":{"name":"Other Stuff","programmingLanguage":["RX JS Reactiv programming","JS Asynchronous programming"],"progressBar":[30,30]}}}   
+
+
+
+{"slide":{"value":40}, "math":{"value": 20,  "lastValues": []}, "user":{"user": "John", "age": 24, "lastValues": []}, "navIcon":{"display":"block","rotate":0,"rotate2":0},"mobileMenu":{"translateX":0,"menu":["home","education","portfolio","contact"]},"education":{"asue":-100,"asue1":100,"gtc":-100,"gtc1":100,"evropakan":[{"name":"European Regional Educational Academy","text":"My Education in European Regional  Academy of Armenia","textContent":"I've had studied International Economic Relations in the European Regional  Academy of Armenia from 2009-2013. I've Bachelor's Degree in Economic recieved in 2013 after finishing the all 4 full courses in the Campus of Gyumri of the European Regional  Academy of Armenia.","img":"era.","years":"2009-2013"}],"economicsUniversity":[{"name":" Armenian State University of Economics","text":"My Education in Armenian State University of Economics","textContent":"I've had studied of Finance in the  Armenian State University of Economics  from 2013-2015. I've Bachelor's Degree in  Finance recieved in 2015 after finishing the all 2 full courses in the Campus of Gyumri of the Armenian State University of Economics.","img":"asue.","years":"2013-2015"}],"GTC":[{"name":" Gyumri Technology Center","text":"My Education in Gyumri Technology Center","textContent":"I've studied  HTML5/CSS3, JavaScript and the latest versions of the EcmaScript 2015, 2016, 2017 Jquery, React.js, Redux, RxJS, Node.js Express Fremework, PHP, MongoDb, Mysql in the Gyumri Technology Center in 2017,I've recieved the Certificate of HTML5/CSS3, JavaScript, PHP in 2017.I'm fully aware of these technologies I have used to build responsive websites with the React.js+ES6 with a little mix of the Reactive and Asynchronous Programming on the Node.js Web Server","img":"gtc.","years":2017}]},"portfolio":{"hoverStatus":false,"flip":0,"bac":0,"data":0,"out":0,"frontend":{"name":"frontend","programmingLanguage":["react/redux","html/css3/botstrap4","ecmascript2017"],"progressBar":[90,90,80]},"backend":{"name":"backend", "programmingLanguage":["Node.js Express","PHP"],"progressBar":[80,50]},"database":{"name":"database","programmingLanguage":[ "Mysql","MongoDb/Mongoose"],"progressBar":[70,60]},"otherStuff":{"name":"Other Stuff","programmingLanguage":["RX JS Reactiv programming","JS Asynchronous programming"],"progressBar":[30,30]}}}
+
+
+{"slide":{"value":40},"math":{"value": 20, "lastValues": []}, "user":{"user": "John", "age": 24, "lastValues": []}, "navIcon":{"display":"block","rotate":0,"rotate2":0}, "mobileMenu":{"translateX":0,"menu":["Home","Education","Portfolio","Contact"]},"home":{"defName":"","name":"I AM STEPAN MANUKYAN", "product":"WEB DEVELOPER","fullName":"Stepan Manukyan","birthday":"14 Jun 1992","img":"img.","languages":"JavaScript / ES6, React-Redux, Node express, PHP, Bottstrapt4, HTML5, CSS3","technologies":"JQuery, RX.JS","databases":"MySQL, MongoDB","operSystems":"Windows","tools":"MS Office, Visual Studio Code, Atom, Jet Brains DataGrip"}, "education":{"evropakan":{"era":0,"era1":0,"name":"European Regional Educational Academy","text":"My Education in European Regional  Academy of Armenia","textContent":"I've had studied International Economic Relations in the European Regional  Academy of Armenia from 2009-2013. I've Bachelor's Degree in Economic recieved in 2013 after finishing the all 4 full courses in the Campus of Gyumri of the European Regional  Academy of Armenia.","img":"era.","years":"2009-2013","display":"block"}, "economicsUniversity":{"asue":100,"asue1":-100,"name":" Armenian State University of Economics","text":"My Education in Armenian State University of Economics","textContent":"I've had studied of Finance in the  Armenian State University of Economics  from 2013-2015. I've Bachelor's Degree in  Finance recieved in 2015 after finishing the all 2 full courses in the Campus of Gyumri of the Armenian State University of Economics.","img":"asue.","years":"2013-2015"}, "GTC":{"gtc":-100,"gtc1":100,"name":" Gyumri Technology Center","text":"My Education in Gyumri Technology Center","textContent":"I've studied  HTML5/CSS3, JavaScript and the latest versions of the EcmaScript 2015, 2016, 2017 Jquery, React.js, Redux, RxJS, Node.js Express Fremework, PHP, MongoDb, Mysql in the Gyumri Technology Center in 2017,I've recieved the Certificate of HTML5/CSS3, JavaScript, PHP in 2017.I'm fully aware of these technologies I have used to build responsive websites with the React.js+ES6 with a little mix of the Reactive and Asynchronous Programming on the Node.js Web Server","img":"gtc.","years":"2017"}}, "portfolio":{"hoverStatus":false,"flip":0,"bac":0,"data":0,"out":0, "frontend":{"name":"Frontend","programmingLanguage":["React / Redux","HTML / CSS3 / Botstrap4","EcmaScript2017"],"progressBar":[90,90,80]}, "backend":{"name":"Backend","programmingLanguage":["Node.js Express","PHP"],"progressBar":[80,50]}, "database":{"name":"Database","programmingLanguage":["Mysql","MongoDb / Mongoose"],"progressBar":[70,60]}, "otherStuff":{"name":"Other Stuff","programmingLanguage":["RX JS Reactiv programming","JS Asynchronous programming"],"progressBar":[30,30]}}}
